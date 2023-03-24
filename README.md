@@ -1,2 +1,2 @@
 # wildlight-website
- Website of paper: CVPR 23 WildLight: In-the-wild Inverse Rendering with a Flashlight
+ Website of paper: WildLight: In-the-wild Inverse Rendering with a Flashlight (CVPR 23)
